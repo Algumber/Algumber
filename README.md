@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Algumber
-- 👀 I’m interested in 3DS Homebrew
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: idk
+- 👀 I’m interested in gamedev
+- 🌱 I’m currently learning LÖVE
+- 📫 How to reach me: ALGUMB3R#0723 (Discord)
